@@ -1,4 +1,4 @@
-node_modules
-dist
-.parcel_cache
+node_modules/
+dist/
+.parcel_cache/
 .DS_Store
